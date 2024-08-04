@@ -1,1 +1,2 @@
 "this is my first file in git"
+"Adding a new line to my text file." 
